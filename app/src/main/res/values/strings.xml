@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kraft-operator-app</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="button_1">Button 1</string>
+    <string name="preloader_image_description">Preloader Image</string>
+    <string name="copyright_text">by eastsidekillas</string>
+</resources>
